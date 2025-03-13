@@ -29,11 +29,11 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por desenvolver soluções ino
 
 ## 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrocarbonera&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrocarbonera1&show_icons=true&theme=radical)
 
 ## 📊 Tecnologias Mais Usadas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarbonera&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarbonera1&layout=compact&theme=radical)
 
 ## 🛠️ Como Posso Agregar Valor
 

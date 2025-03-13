@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por desenvolver soluções ino
 ## 📫 Como me encontrar
 
 - **Email:** [carbonerapedro50@gmail.com](mailto:carbonerapedro50@gmail.com)
-- LinkedIn: [Meu Perfil LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- LinkedIn: [Meu Perfil LinkedIn](https://www.linkedin.com/in/pedro-henrique-carbonera-83031a302/)
 - Website: [Meu Blog ou Portfólio](https://seudominio.com)
 
 ## 🚀 Habilidades

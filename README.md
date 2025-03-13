@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por desenvolver soluções ino
 
 ## 🌟 Sobre Mim
 
-- 🔭 Atualmente, estou trabalhando em **[Harpa tecnologia]([https://github.com/pedrocarbonera1/url-do-repo-do-projeto](https://harpatecnologia.com.br/grupo/)).**
+- 🔭 Atualmente, estou trabalhando em **[Harpa tecnologia](https://harpatecnologia.com.br/grupo/).**
 - 🌱 Atualmente, estou aprendendo **Engenharia de Software**.
 - 👯 Sempre interessado em colaborar em **Novos projetos da Comunidade**.
 

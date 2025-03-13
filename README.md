@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por desenvolver soluções ino
 ## 🌟 Sobre Mim
 
 - 🔭 Atualmente, estou trabalhando em **[Harpa tecnologia](https://harpatecnologia.com.br/grupo/).**
-- 🌱 Atualmente, estou aprendendo **Engenharia de Software** e desenvolvendo meu **ingles**.
+- 🌱 Atualmente, estou aprendendo **Engenharia de Software** e desenvolvendo meu **inglês**🇺🇸.
 - 👯 Sempre interessado em colaborar em **Novos projetos da Comunidade**.
 
 ## 📫 Como me encontrar

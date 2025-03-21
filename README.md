@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro! 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou apaixonado por desenvolver soluções inovadoras e adoro resolver problemas complexos com código.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor fullstack e sócio de uma empresa de software. Tenho 17 anos e estou sempre buscando aprender e evoluir na área de tecnologia.
 
 ## 🌟 Sobre Mim
 

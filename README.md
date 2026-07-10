@@ -38,15 +38,6 @@ Partner at **[Harpa Tecnologia](https://harpatecnologia.com.br/grupo/)**, where 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pedrocarbonera1&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarbonera1&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-
-</div>
-
 ## Achievements
 
 - 🥇 Regional Winner — Front-End competition, Projeto Agrinho

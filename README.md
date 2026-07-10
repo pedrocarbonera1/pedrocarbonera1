@@ -1,11 +1,10 @@
 <div align="center">
 
-# Pedro Carbonera
-
-**Fullstack Developer** — PHP/Laravel · React · DevOps
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:FF2D20&height=180&section=header&text=Pedro%20Carbonera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%94%20PHP%2FLaravel%20%C2%B7%20React%20%C2%B7%20DevOps&descAlignY=58&descSize=18" alt="header" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-carbonera-83031a302/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carbonerapedro50@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=pedrocarbonera1&style=flat-square&color=2496ED&label=Profile+views)
 
 </div>
 
@@ -42,6 +41,24 @@ Partner at **[Harpa Tecnologia](https://harpatecnologia.com.br/grupo/)**, where 
 
 - 🥇 Regional Winner — Front-End competition, Projeto Agrinho
 
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrocarbonera1/pedrocarbonera1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrocarbonera1/pedrocarbonera1/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/pedrocarbonera1/pedrocarbonera1/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
 ## Contact
 
 📧 [carbonerapedro50@gmail.com](mailto:carbonerapedro50@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-carbonera-83031a302/)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:2496ED&height=100&section=footer" alt="footer" />
+
+</div>

@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:FF2D20&height=180&section=header&text=Pedro%20Carbonera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%94%20PHP%2FLaravel%20%C2%B7%20React%20%C2%B7%20DevOps&descAlignY=58&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:1D4ED8&height=180&section=header&text=Pedro%20Carbonera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ERP%20%26%20Chatbot%20Developer%20%40%20Harpa%20Tecnologia&descAlignY=58&descSize=18" alt="header" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-carbonera-83031a302/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carbonerapedro50@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=pedrocarbonera1&style=flat-square&color=2496ED&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=pedrocarbonera1&style=flat-square&color=F97316&label=Profile+views)
 
 </div>
 
@@ -12,10 +12,10 @@
 
 ## About
 
-Partner at **[Harpa Tecnologia](https://harpatecnologia.com.br/grupo/)**, where I build ERP systems and tax/fiscal integrations — from the Laravel backend to the production deployment pipeline. Software Engineering student.
+Partner at **[Harpa Tecnologia](https://harpatecnologia.com.br/)**, where I build the company's two core products end-to-end.
 
-- 🔭 Building and maintaining multi-tenant ERP systems with fiscal document integrations (NF-e, NFC-e, CT-e, NFS-e)
-- 🐳 Deepening my skills in **Docker, CI/CD, and production deployment** — automated builds, multi-stage images, SSL-terminated reverse proxies
+- 🏢 **ERP** — architecting and maintaining a multi-tenant ERP platform, from the Laravel backend to the production deployment pipeline
+- 🤖 **Chatbot** — designing and evolving Harpa's chatbot, from conversational flows to backend integrations
 - 🤝 Open to collaborating on open-source projects
 
 ## Stack
@@ -59,6 +59,6 @@ Partner at **[Harpa Tecnologia](https://harpatecnologia.com.br/grupo/)**, where 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:2496ED&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:F97316&height=100&section=footer" alt="footer" />
 
 </div>

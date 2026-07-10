@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:1D4ED8&height=180&section=header&text=Pedro%20Carbonera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ERP%20%26%20Chatbot%20Developer%20%40%20Harpa%20Tecnologia&descAlignY=58&descSize=18" alt="header" />
+<img src="https://raw.githubusercontent.com/pedrocarbonera1/pedrocarbonera1/main/assets/header.svg" alt="Pedro Carbonera — ERP & Chatbot Developer @ Harpa Tecnologia, CTO @ Harpa Software" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-carbonera-83031a302/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carbonerapedro50@gmail.com)
@@ -12,7 +12,7 @@
 
 ## About
 
-Partner at **[Harpa Tecnologia](https://harpatecnologia.com.br/)**, where I build the company's two core products end-to-end.
+**CTO at Harpa Software**, part of the **[Harpa Tecnologia](https://harpatecnologia.com.br/)** group, where I build the company's two core products end-to-end.
 
 - 🏢 **ERP** — architecting and maintaining a multi-tenant ERP platform, from the Laravel backend to the production deployment pipeline
 - 🤖 **Chatbot** — designing and evolving Harpa's chatbot, from conversational flows to backend integrations
@@ -59,6 +59,6 @@ Partner at **[Harpa Tecnologia](https://harpatecnologia.com.br/)**, where I buil
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:F97316&height=100&section=footer" alt="footer" />
+<img src="https://raw.githubusercontent.com/pedrocarbonera1/pedrocarbonera1/main/assets/footer.svg" alt="" width="100%" />
 
 </div>

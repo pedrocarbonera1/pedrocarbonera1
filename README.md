@@ -2,7 +2,7 @@
 
 # Pedro Carbonera
 
-**Desenvolvedor Fullstack** — PHP/Laravel · React · DevOps
+**Fullstack Developer** — PHP/Laravel · React · DevOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-carbonera-83031a302/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carbonerapedro50@gmail.com)
@@ -11,13 +11,13 @@
 
 ---
 
-## Sobre
+## About
 
-Sócio na **[Harpa Tecnologia](https://harpatecnologia.com.br/grupo/)**, onde desenvolvo soluções de ERP e integrações fiscais — do backend em Laravel ao pipeline de deploy em produção. Estudante de Engenharia de Software.
+Partner at **[Harpa Tecnologia](https://harpatecnologia.com.br/grupo/)**, where I build ERP systems and tax/fiscal integrations — from the Laravel backend to the production deployment pipeline. Software Engineering student.
 
-- 🔭 Construindo e mantendo sistemas ERP multi-tenant com integrações fiscais (NF-e, NFC-e, CT-e, NFS-e)
-- 🐳 Aprofundando em **Docker, CI/CD e deploy em produção** — builds automatizados, imagens multi-stage, proxy reverso com SSL
-- 🤝 Aberto a colaborar em projetos open-source
+- 🔭 Building and maintaining multi-tenant ERP systems with fiscal document integrations (NF-e, NFC-e, CT-e, NFS-e)
+- 🐳 Deepening my skills in **Docker, CI/CD, and production deployment** — automated builds, multi-stage images, SSL-terminated reverse proxies
+- 🤝 Open to collaborating on open-source projects
 
 ## Stack
 
@@ -31,7 +31,7 @@ Sócio na **[Harpa Tecnologia](https://harpatecnologia.com.br/grupo/)**, onde de
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Infra & Ferramentas**
+**Infra & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -42,15 +42,15 @@ Sócio na **[Harpa Tecnologia](https://harpatecnologia.com.br/grupo/)**, onde de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pedrocarbonera1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pedrocarbonera1&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarbonera1&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 
 </div>
 
-## Conquistas
+## Achievements
 
-- 🥇 Vencedor Regional — concurso de Front-End, Projeto Agrinho
+- 🥇 Regional Winner — Front-End competition, Projeto Agrinho
 
-## Contato
+## Contact
 
 📧 [carbonerapedro50@gmail.com](mailto:carbonerapedro50@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-carbonera-83031a302/)

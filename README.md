@@ -1,72 +1,56 @@
-# 👋 Olá, eu sou o Pedro Carbonera!
+<div align="center">
 
-> 💻 Desenvolvedor **Fullstack PHP / Laravel / JS / React**,  
-> 🚀 Sócio na **[Harpa Tecnologia](https://harpatecnologia.com.br/grupo/)**  
-> 📚 Estudante de **Engenharia de Software** e **Inglês Técnico**  
-> 🎯 Apaixonado por tecnologia, inovação e desafios de código!
+# Pedro Carbonera
 
----
+**Desenvolvedor Fullstack** — PHP/Laravel · React · DevOps
 
-## ✨ Sobre Mim
-
-- 🔭 Atualmente desenvolvendo soluções ERP e integrações fiscais na **Harpa Tecnologia**.
-- 🌱 Foco no aprendizado contínuo: **Back-end (PHP/Laravel)**, **Front-end (React/Tailwind)** e **Cloud/DevOps**.
-- 🤝 Aberto a contribuir em **projetos open-source** e **iniciativas da comunidade**.
-
----
-
-## 🚀 Minhas Principais Habilidades
-
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-carbonera-83031a302/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carbonerapedro50@gmail.com)
 
 </div>
 
 ---
 
-## 🏅 Conquistas Pessoais
+## Sobre
 
-- 🥇 **Vencedor Regional** no concurso de **Front-End - Projeto Agrinho**.
-- 👨‍💻 Em constante evolução como **Dev Fullstack**.
+Sócio na **[Harpa Tecnologia](https://harpatecnologia.com.br/grupo/)**, onde desenvolvo soluções de ERP e integrações fiscais — do backend em Laravel ao pipeline de deploy em produção. Estudante de Engenharia de Software.
 
----
+- 🔭 Construindo e mantendo sistemas ERP multi-tenant com integrações fiscais (NF-e, NFC-e, CT-e, NFS-e)
+- 🐳 Aprofundando em **Docker, CI/CD e deploy em produção** — builds automatizados, imagens multi-stage, proxy reverso com SSL
+- 🤝 Aberto a colaborar em projetos open-source
 
-## 📈 GitHub Stats & Atividades Recentes
+## Stack
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrocarbonera1&show_icons=true&theme=radical)
+**Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarbonera1&layout=compact&theme=radical)
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
----
+**Infra & Ferramentas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📚 Atualmente Estudando
+## GitHub Stats
 
-- 🕸️ **React + Tailwind CSS**
-- 🐘 **PHP Avançado / Design Patterns**
-- 🐳 **Docker & Deploy Automatizado**
-- ☁️ **AWS / Cloud Services**
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=pedrocarbonera1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarbonera1&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 
-## 📫 Vamos nos conectar?
+</div>
 
-- 📧 Email: [carbonerapedro50@gmail.com](mailto:carbonerapedro50@gmail.com)
-- 💼 LinkedIn: [Meu Perfil](https://www.linkedin.com/in/pedro-henrique-carbonera-83031a302/)
-- 🌐 Website / Blog: *Em breve... stay tuned 🚀*
+## Conquistas
 
----
+- 🥇 Vencedor Regional — concurso de Front-End, Projeto Agrinho
 
-> *"O código que você escreve hoje é o legado que vai ler amanhã. Então, faça valer a pena."*
+## Contato
 
----
-
+📧 [carbonerapedro50@gmail.com](mailto:carbonerapedro50@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-carbonera-83031a302/)

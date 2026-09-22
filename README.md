@@ -12,17 +12,40 @@
 
 ## About
 
-**CTO at Harpa Software**, part of the **[Harpa Tecnologia](https://harpatecnologia.com.br/)** group, where I build the company's two core products end-to-end.
+**CTO at Harpa Software**, part of the **[Harpa Tecnologia](https://harpatecnologia.com.br/)** group, where I build the company's two core products end-to-end — from architecture to production.
 
 - 🏢 **ERP** — architecting and maintaining a multi-tenant ERP platform, from the Laravel backend to the production deployment pipeline
 - 🤖 **Chatbot** — designing and evolving Harpa's chatbot, from conversational flows to backend integrations
 - 🤝 Open to collaborating on open-source projects
 
+### 🧾 Fiscal Documents
+
+Design and maintenance of the ERP's fiscal module, covering the full lifecycle of Brazilian electronic tax documents:
+
+- **NF-e** (Nota Fiscal Eletrônica), **NFS-e** (Nota Fiscal de Serviço Eletrônica) and **NFC-e** (Nota Fiscal de Consumidor Eletrônica) — issuance, cancellation, and contingency handling
+- Integration with SEFAZ and municipal issuers to keep the platform compliant across different tax rules
+
+### 💳 Payment Integrations
+
+End-to-end payment flows built directly into the ERP's checkout and billing routines:
+
+- **Stripe** — credit card payments and subscription billing
+- **Sicoob Pix** — instant payment generation and confirmation
+- **Sicoob Boleto** — bank slip (boleto) generation and settlement tracking
+
+### 🐳 Infrastructure
+
+Responsible for the platform's deployment and operations, including:
+
+- **Docker** — containerizing services for consistent, reproducible deployments
+- **Reverse proxy** — Nginx-based routing, TLS termination and load balancing
+- CI/CD pipelines and day-to-day server administration on Linux
+
 ## Stack
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **Backend**
 <br/>
@@ -32,7 +55,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **Frontend**
 <br/>
@@ -42,14 +65,25 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
+
+**Payments & Fiscal**
+<br/>
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Pix](https://img.shields.io/badge/Pix-32BCAD?style=for-the-badge&logo=pix&logoColor=white)
+![Boleto](https://img.shields.io/badge/Boleto_Sicoob-003641?style=for-the-badge)
+![NFe](https://img.shields.io/badge/NF--e%20%7C%20NFS--e%20%7C%20NFC--e-00A19A?style=for-the-badge)
+
+</td>
+<td valign="top" width="25%">
 
 **Infra & Tools**
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 

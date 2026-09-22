@@ -91,6 +91,18 @@ Responsible for the platform's deployment and operations, including:
 </tr>
 </table>
 
+## Projects
+
+### 📦 HarpaComex
+
+Application focused on foreign trade, built to automate import/export process follow-ups through the **official WhatsApp Business API**.
+
+- 🌎 Automated tracking and follow-up messages for import/export operations
+- 💬 Sends status updates via the official WhatsApp Business API, no manual chasing needed
+- ⏱️ Cuts down manual follow-up work by notifying the right people automatically at each stage of the process
+
+![WhatsApp Business API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
 ## Achievements
 
 - 🥇 Regional Winner — Front-End competition, Projeto Agrinho

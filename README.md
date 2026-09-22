@@ -12,10 +12,8 @@
 
 ## About
 
-**CTO at Harpa Software**, part of the **[Harpa Tecnologia](https://harpatecnologia.com.br/)** group, where I build the company's two core products end-to-end — from architecture to production.
+**CTO at Harpa Software**, part of the **[Harpa Tecnologia](https://harpatecnologia.com.br/)** group, where I build the company's products end-to-end — from architecture to production.
 
-- 🏢 **ERP** — architecting and maintaining a multi-tenant ERP platform, from the Laravel backend to the production deployment pipeline
-- 🤖 **Chatbot** — designing and evolving Harpa's chatbot, from conversational flows to backend integrations
 - 🤝 Open to collaborating on open-source projects
 
 ### 🧾 Fiscal Documents
@@ -92,6 +90,14 @@ Responsible for the platform's deployment and operations, including:
 </table>
 
 ## Projects
+
+### 🏢 ERP
+
+Multi-tenant ERP platform built for Harpa Tecnologia — architected and maintained end-to-end, from the Laravel backend to the production deployment pipeline.
+
+### 🤖 Chatbot
+
+Harpa's chatbot platform — conversational flow design and backend integrations.
 
 ### 📦 HarpaComex
 

@@ -95,6 +95,8 @@ Responsible for the platform's deployment and operations, including:
 
 Multi-tenant ERP platform built for Harpa Tecnologia — architected and maintained end-to-end, from the Laravel backend to the production deployment pipeline.
 
+🔗 [h365erp.com.br](http://h365erp.com.br/)
+
 ### 🤖 Chatbot
 
 Harpa's chatbot platform — conversational flow design and backend integrations.
@@ -106,6 +108,8 @@ Application focused on foreign trade, built to automate import/export process fo
 - 🌎 Automated tracking and follow-up messages for import/export operations
 - 💬 Sends status updates via the official WhatsApp Business API, no manual chasing needed
 - ⏱️ Cuts down manual follow-up work by notifying the right people automatically at each stage of the process
+
+🔗 [site.hfollow.com.br](https://site.hfollow.com.br/)
 
 ![WhatsApp Business API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 

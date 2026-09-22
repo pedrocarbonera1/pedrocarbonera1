@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pedrocarbonera1/pedrocarbonera1/main/assets/header.svg" alt="Pedro Carbonera — ERP & Chatbot Developer @ Harpa Tecnologia, CTO @ Harpa Software" width="100%" />
+# Pedro Carbonera
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-carbonera-83031a302/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carbonerapedro50@gmail.com)
@@ -132,9 +132,3 @@ Application focused on foreign trade, built to automate import/export process fo
 ## Contact
 
 📧 [carbonerapedro50@gmail.com](mailto:carbonerapedro50@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-carbonera-83031a302/)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pedrocarbonera1/pedrocarbonera1/main/assets/footer.svg" alt="" width="100%" />
-
-</div>

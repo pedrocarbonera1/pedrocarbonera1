@@ -113,6 +113,14 @@ Application focused on foreign trade, built to automate import/export process fo
 
 ![WhatsApp Business API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
+### 💻 Freelance
+
+Websites developed as freelance work:
+
+- 🔗 [asimportsworld.com.br](https://asimportsworld.com.br/)
+- 🔗 [site.ghaigerbusiness.com.br](https://site.ghaigerbusiness.com.br/)
+- 🔗 [marrecasclube.com.br](https://marrecasclube.com.br/)
+
 ## Achievements
 
 - 🥇 Regional Winner — Front-End competition, Projeto Agrinho
